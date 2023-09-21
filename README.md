@@ -1,19 +1,19 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="./images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+
+
 
 ### <div align="center">I'm Akiko97</div>  
-  
+
 
 ### <div align="center">The world open itself before those with noble hearts</div>  
-  
 
-- 🔭 I’m currently working on my graduation thesis  
-  
-
-- 🌱 I’m currently learning high performance computing  
-  
+*  🔬 I’m currently focused on the visualization of SIMD instructions
+*  💻 Delving into assembly language for visual programming
+*  🛠 Working on operating systems and CPU simulators
+*  🚀 Learning about high-performance computing
+*  🤖 Exploring the field of Artificial Intelligence
 
 <br/>  
 
@@ -67,7 +67,17 @@
 </div>  
   
 
-<br/>  
+<br/>
+
+### GitHub QRCode
+
+<div align="center">
+<img src="./images/qrcode-github.png" align="center" style="width: 300" />
+</div>  
+
+
+
+<br/>
 
 
 ## Github Stats  
@@ -78,7 +88,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Akiko97&&style=flat-square" align="center" />
 </div>  
-
 <br />
 
 ----
