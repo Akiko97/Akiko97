@@ -81,7 +81,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akiko97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akiko97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
+![Akiko97's Stats](https://github-readme-stats.vercel.app/api?username=Akiko97&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![Akiko97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akiko97&theme=monokai&hide_border=true)
+![Akiko97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akiko97&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 <br/>  
 
