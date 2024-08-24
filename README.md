@@ -1,33 +1,25 @@
-<div style="width: 60%; text-align: center; margin: 10px auto; display: table;">
-  <img src="./images/greetings.gif" style="width: 100%; text-align: center;" alt="greetings"/>
+<div align="center">
+  <img src="./images/greetings.gif" width="60%" alt="greetings"/>
 </div>
 
-<div style="width: 100%; text-align: center; margin: 10px auto; display: table;">
+<div align="center">
   <h1>Hi 👋, I'm Akiko97</h1>
   <h3>A full-stack developer driven by passion</h3>
 </div>
 
-<div style="width: 100%; text-align: center; margin: 10px auto; display: table;">
-  <div style="display: inline-block; margin: auto 10px;">
-    <a href="https://github.com/Akiko97" target="_blank">
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: auto 10px;">
-    <a href="https://gitlab.com/Akiko97" target="_blank">
-      <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: auto 10px;">
-    <a href="https://stackoverflow.com/users/19393409" target="_blank">
-      <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: auto 10px;">
-    <a href="https://dev.to/akiko97" target="_blank">
-      <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/Akiko97" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/Akiko97" target="_blank">
+    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/19393409" target="_blank">
+    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/akiko97" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
 </div>
 
 ## <h1>🪪 Introduction</h1>
@@ -180,7 +172,7 @@
 
 ---
 
-<div style="width: 100%; text-align: center; margin: 10px auto; display: table;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Akiko97&color=blueviolet&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS"  alt="counter"/>
   <p>The world open itself before those with noble hearts</p>
 </div>
