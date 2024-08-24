@@ -136,25 +136,17 @@
 
 ## <h1>👨‍💻 GitHub</h1>
 
-<div style="width: 100%; text-align: center; display: flex;">
-  <div style="width: 49%; padding: 10px;">
-    <img style="text-align: center; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Akiko97&show_icons=true&locale=en" alt="Akiko97" />
-  </div>
-  <div style="width: 51%; padding: 10px;">
-    <img style="text-align: center; width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Akiko97&" alt="Akiko97" />
-  </div>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akiko97&show_icons=true&locale=en" alt="Akiko97" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akiko97&" alt="Akiko97" />
 </div>
-<div style="width: 100%; text-align: center; display: flex;">
-  <div style="width: 64%; padding: 10px;">
-    <img style="text-align: center; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akiko97&show_icons=true&locale=en&layout=compact" alt="Akiko97" />
-  </div>
-  <div style="width: 36%; padding: 10px;">
-    <img style="text-align: center; width: 100%;" src="./images/qrcode-github.png"  alt="qrcode"/>
-  </div>
+<div align="center">
+  <img width="63%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akiko97&show_icons=true&locale=en&layout=compact" alt="Akiko97" />
+  <img width="35%" src="./images/qrcode-github.png"  alt="qrcode" />
 </div>
-<div style="width: 100%; text-align: center;">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img style="text-align: center; width: 100%;" src="https://github-profile-trophy.vercel.app/?username=Akiko97" alt="Akiko97" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akiko97" alt="Akiko97" />
   </a>
 </div>
 
