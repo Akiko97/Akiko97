@@ -25,7 +25,7 @@
 ## <h1>🪪 Introduction</h1>
 
 * 🎓 Bachelor's degree in Information Security, with a Master's focus on High-Performance Computing
-* 💻 Passionate full-stack developer with expertise in C, Rust, OCaml, and Swift
+* 💻 Passionate full-stack developer with expertise in C, Rust, OCaml, Go, and Swift
 * 🔍 Enthusiast of reverse engineering and system-level architecture research
 * 🛠 Delving deep into low-level systems and architectural design
 * 🎮 Avid gamer with a love for challenging and immersive experiences
