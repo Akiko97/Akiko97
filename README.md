@@ -137,11 +137,11 @@
 ## <h1>👨‍💻 GitHub</h1>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akiko97&show_icons=true&locale=en&theme=onedark" alt="Akiko97" />
+  <img width="48%" src="https://github-readme-stats-six-drab-63.vercel.app/api?username=Akiko97&show_icons=true&locale=en&theme=onedark" alt="Akiko97" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akiko97&theme=onedark" alt="Akiko97" />
 </div>
 <div align="center">
-  <img width="63%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akiko97&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Akiko97" />
+  <img width="63%" src="https://github-readme-stats-six-drab-63.vercel.app/api/top-langs?username=Akiko97&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Akiko97" />
   <img width="35%" src="./images/qrcode-github.png"  alt="qrcode" />
 </div>
 <div align="center">
